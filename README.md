@@ -20,7 +20,7 @@ done on different person detectors.
 python DetectorPreview.py <path to test video> <detector>
 ```
 
-`detector` can be one of **haar, blob, mask, op, tfod, tfop ** and
+`detector` can be one of **haar, blob, mask, op, tfod, tfop** and
 **hog**.
 
 ## Contributors
